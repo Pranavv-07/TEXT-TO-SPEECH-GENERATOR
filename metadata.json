@@ -1,0 +1,6 @@
+{
+  "name": "Indian Voice Studio",
+  "description": "Natural Text-to-Speech platform for Indian languages and Indian-accented voices with multi-provider support, audio player, and MP3 download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
